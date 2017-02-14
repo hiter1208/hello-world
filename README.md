@@ -1,2 +1,2 @@
 # hello-world
-just other repository
+this is my poject, let us start write code
